@@ -1,5 +1,7 @@
 # Klasifikasi Aktivitas Manusia UCI HAR (Streamlit)
 
+[![Deploy to Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=https://github.com/syaikhanalfatih-ops/har-streamlit&branch=main&mainModule=app.py)
+
 Aplikasi Streamlit multi-halaman untuk klasifikasi **biner** aktivitas manusia
 (dinamis vs statis) dari dataset **UCI Human Activity Recognition Using Smartphones**.
 
